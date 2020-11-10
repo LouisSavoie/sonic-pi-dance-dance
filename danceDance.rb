@@ -7,7 +7,7 @@
 #quarter-note: 0.125
 #eight-note: 0.05125
 
-# Bass Riff 1
+# Riff 1
 
 play :B2, amp: 1, sustain: 0.125, release: 0.125
 sleep 0.25
@@ -24,7 +24,7 @@ sleep 0.125
 play :D2, amp: 1, sustain: 0.625
 sleep 0.5
 
-play :D2, amp: 0.25, sustain: 0.125, release: 0.125
+play :D2, amp: 0.75, sustain: 0.125, release: 0.125
 sleep 0.25
 
 play :A2, amp: 0.5, release: 0.125
@@ -39,7 +39,7 @@ sleep 0.125
 play :A2, amp: 0.5, release: 0.125
 sleep 0.125
 
-# Bass Riff 2
+# Riff 2
 
 play :G2, amp: 1, sustain: 0.125, release: 0.125
 sleep 0.25
@@ -56,7 +56,7 @@ sleep 0.125
 play :D2, amp: 1, sustain: 0.625
 sleep 0.5
 
-play :D2, amp: 0.25, sustain: 0.125, release: 0.125
+play :D2, amp: 0.75, sustain: 0.125, release: 0.125
 sleep 0.25
 
 play :A2, amp: 0.5, release: 0.125
